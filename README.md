@@ -1,4 +1,9 @@
 ### Hi there 👋
+Incomplete, thought the stats were cool.
+
+<a href="https://github.com/remingtonc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remingtonc&include_all_commits=true&line_height=35&theme=radical&layout=compact" />
+</a>
 
 <!--
 **remingtonc/remingtonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
